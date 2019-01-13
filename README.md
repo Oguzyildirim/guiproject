@@ -1,2 +1,2 @@
 # guiproject
-ceng gui final project
+ceng 7th semester gui lesson project with using google services(firebase.
